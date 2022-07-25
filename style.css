@@ -1,0 +1,85 @@
+.bg-color {
+    background-color: #FEEAE9 !important;
+
+    border-radius: 20px;
+}
+
+.banner-h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 84px;
+}
+
+.banner-p {
+ 
+font-style: normal;
+font-weight: 400;
+font-size: 1rem;
+line-height: 26px;
+}
+
+.banner-h3 {
+
+font-style: normal;
+font-weight: 500;
+font-size: 2rem;
+line-height: 62px;
+color: #FF136F;
+}
+
+.banner-btn {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 6px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #FFFFFF;    
+}
+.catagory-card{
+    padding: 15px 0 15px 0;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+.catagory-card h1{
+    font-weight: 500;
+font-size: 36px;
+line-height: 54px;
+color: #FFFFFF;
+}
+.catagory-card img{
+max-width: 100px;
+}
+.catagory-1{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.catagory-2{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.catagory-3{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+}
+.title a{
+    color: #FFD019;
+}
+.castom-card{
+    margin-left: 15px;
+}
+.castom-card .card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer{
+    background: #FFF2F1;
+    height: 350px;
+}
